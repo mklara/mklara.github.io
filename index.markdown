@@ -2,6 +2,8 @@
 layout: home
 ---
 
+# Velkommen til Familien Larsens
+
 * Pandekager / crepes 
 * Brændte mandler
 * Kaffe
@@ -18,6 +20,4 @@ Med venlig hilsen <br/>
 
 Morten Schierup Larsen
 
-
-Test
 
