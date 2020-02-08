@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 ---
 
 * Pandekager / crepes 
@@ -17,4 +17,7 @@ Jeg håber, at høre fra dig, <br/>
 Med venlig hilsen <br/>
 
 Morten Schierup Larsen
+
+
+Test
 
