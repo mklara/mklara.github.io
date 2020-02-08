@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Pandekager
+title: Familien Larsens pandekager 
 permalink: /pandekager/
 ---
 
-# Familien Larsens pandekager 
 Bestil vores bod med lækre crepes. <br/>
 Vi laver crepes med: <br/>
 * Chokolade og banan

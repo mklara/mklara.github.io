@@ -4,7 +4,6 @@ title: Kontakt
 permalink: /about/
 ---
 
-# Kontakt
 Morten Schierup Larsen  <br/>
 Hovvejen 46<br/>
 Markusminde<br/>
