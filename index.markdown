@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Velkommen til Familien Larsens <br/>
+# Velkommen til Familien Larsens
 * Pandekager / crepes 
 * Brændte mandler
 * Kaffe
