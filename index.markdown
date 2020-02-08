@@ -3,9 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-layout: page
-title: Legekammerater
-permalink: /legekammerater/
+
 ---
 
 # Velkommen til Familien Larsens <br/>
