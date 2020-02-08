@@ -15,3 +15,5 @@ Fredag, lørdag og søndag: 4000 kr + moms. 3 timer med brændte mandler incl. 5
 Flere mandelposer kan tilkøbes. <br/> <br/>
 
 Ved arrangementer mere end 25 kilometer væk fra Århus C betales 2 kroner pr. kørt kilometer.
+
+![Brændte mandler](/mandler.jpg)
