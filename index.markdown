@@ -1,8 +1,7 @@
 ---
 layout: home
+title: Velkommen til Familien Larsens
 ---
-
-# Velkommen til Familien Larsens
 
 * Pandekager / crepes 
 * Brændte mandler
