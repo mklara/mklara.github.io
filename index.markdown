@@ -1,6 +1,6 @@
 ---
 layout: home
-title:  
+title: "" 
 ---
 # Velkommen til Familien Larsens
 * Pandekager / crepes 
