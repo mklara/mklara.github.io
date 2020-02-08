@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 ---
 
 # Velkommen til Familien Larsens <br/>
