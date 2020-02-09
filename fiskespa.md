@@ -4,9 +4,6 @@ title: Fiskespa
 permalink: /fiskespa/
 ---
 
-Henvis / åbn Hrdoktorfisk.dk
-
-
 # Fiskespa
 
 Fiskespa til dit arrangement. Både mulighed for udendørs og indendørs arrangementer.
