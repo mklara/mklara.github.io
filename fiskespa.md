@@ -4,8 +4,6 @@ title: Fiskespa
 permalink: /fiskespa/
 ---
 
-# Fiskespa
-
 Fiskespa til dit arrangement. Både mulighed for udendørs og indendørs arrangementer.
 
 Med denne unikke og mobile fiskespa har jeg serviceret gæster til alt fra Langelandsfestival og Samsø festival til Randers Storcenter, Hinnerup svømmehal og firmaarrangementer i det fri.
