@@ -8,8 +8,7 @@ title: ""
 * Kaffe
 * 	… Og sågar en fiskespa. <br/>
 Alt sammen til dit arrangement.
-
-<br/> <br/>
+<br/>
 Ring til mig på 30313356 og hør mere om mine tilbud. Alle mine boder er mobile og kan komme ind gennem en almindelig dør. Vi kan lave arrangementer både indendørs og udendørs. <br/> <br/> 
 
 Jeg håber, at høre fra dig, <br/>
