@@ -3,7 +3,7 @@ layout: home
 title: "" 
 ---
 # Velkommen til aarhussweetfood.dk
-* Pandekager / crepes 
+* Søde pandekager 
 * Brændte mandler
 * Kaffe
 * Pindis
