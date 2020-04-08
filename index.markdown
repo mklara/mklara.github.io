@@ -6,7 +6,7 @@ title: ""
 * Pandekager / crepes 
 * Brændte mandler
 * Kaffe
-* pindis
+* Pindis
 * 	… Og sågar en fiskespa. <br/>
 Alt sammen til dit arrangement.
 <br/>
