@@ -3,9 +3,9 @@ layout: page
 title: Brændte mandler
 permalink: /braendte_mandler/
 ---
-Brændtemandler.com -en del af Familien Larsens. <br/>
+Brændtemandler.com -en del af aarhussweetfood.dk <br/>
 
-Familien Larsens kommer ud til dit arrangement og laver lækre, brændte mandler til dig og dine gæster. 
+Aarhussweetfood.dk kommer ud til dit arrangement og laver lækre, brændte mandler til dig og dine gæster. 
 Julestemning i overflod og en herlig duft af jul. Julen går for alvor i gang når du smager den første pose brændte mandler. 
 
 # Priser
