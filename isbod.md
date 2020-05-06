@@ -16,3 +16,8 @@ Ved kørsel mere end 20 kilometer fra 8471 Sabro koster det 3 kroner per kørt k
 Du kan tilkøbe ekstra is (bægre fra skarø is og pindis fra frisko)og ekstra tid: 300 kroner per time.
 
 ![Brændte mandler](/mandler.jpg)
+
+![isbod](/isbod.jpg)
+![isbod](/isborn.jpg)
+![isbod](/isborn2.jpg)
+![isbod](/isborn3.jpg)
