@@ -2,7 +2,7 @@
 layout: page
 title: Isbod
 permalink: /isbod/
-—
+---
 
 IS DU KA’ LI’
 TIL DEM DU KA’ LI’
