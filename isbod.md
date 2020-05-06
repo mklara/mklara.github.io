@@ -13,7 +13,7 @@ Morten: 30313356. <br><br>
 Ring til mig og få en snak hvilket set up du kan tænke dig med is. <br>
 Grundprisen for en time med servering af is, inklusiv istil en værdi af 600, er 1000 kroner. <br>
 Ved kørsel mere end 20 kilometer fra 8471 Sabro koster det 3 kroner per kørt kilometer. <br>
-Du kan tilkøbe ekstra is (bægre fra skarø is og pindis fra frisko)og ekstra tid: 300 kroner per time. <br>
+Du kan tilkøbe ekstra is (bægre fra skarø is og pindis fra frisko)og ekstra tid: 400 kroner per time. <br>
 
 ![isbod](/isbod.jpg)
 ![isbod](/isborn.jpg)
