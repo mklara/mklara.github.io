@@ -5,7 +5,7 @@ permalink: /isbod/
 ---
 
 IS DU KA’ LI’ <br>
-TIL DEM DU KA’ LI’ <br>
+TIL DEM DU KA’ LI’ <br><br>
 En hel time med isbar og sommerstemning. <br>
 Pris 1000 kroner. Med i prisen får du lækker is til en værdi af 600 kroner. Også Pandekager, brændte mandler og pivfrisk filterkaffe. <br>
 Se mere på www.aarhussweetfood.dk <br>
