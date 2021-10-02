@@ -16,4 +16,4 @@ Flere brændte mandler kan tilkøbes til 200 kroner plus moms / kilo. <br/> <br/
 
 Ved arrangementer mere end 25 kilometer væk fra Århus C betales 2 kroner pr. kørt kilometer.
 
-![Brændte mandler](/mandler.jpg)
+![Brændte mandler](/mandler2.jpg)
