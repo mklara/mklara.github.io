@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pandekager
+title: Kæmpe pandekager
 permalink: /pandekager/
 ---
 Bestil vores bod med lækre crepes. <br/>

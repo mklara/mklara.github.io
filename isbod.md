@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Isbod
-permalink: /isbod/
+title: Is
+permalink: /is/
 ---
 
 IS DU KA’ LI’ <br>

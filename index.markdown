@@ -20,4 +20,3 @@ Morten Schierup Larsen
 
 
 ![Lækker kaffe](/kaffe.jpg)
-![Mere lækker kaffe](/kaffe2.jpg)
