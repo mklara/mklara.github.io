@@ -4,8 +4,8 @@ title: ""
 ---
 # Velkommen til aarhussweetfood.dk
 * Baristakaffe
-* crepes
 * Brændte mandler
+* Crepes
 * Is
 
 Alt sammen til dit arrangement.
