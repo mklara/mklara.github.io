@@ -9,7 +9,7 @@ source "https://rubygems.org"
 # Happy Jekylling!
 
 gem "kramdown", ">= 2.3.1"
-
+gem "addressable", ">= 2.8.0"
 
 gem "jekyll", "~> 4.0.0"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
