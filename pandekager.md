@@ -14,4 +14,6 @@ Prisen for, at få os til dit arrangement i 3 timer er 3000 kroner plus moms i h
 Med i prisen er 40 pandekager med ovenstående fyld – dette har en salgsværdi af cirka 1500 kroner.
 
 
-![pandekager](/pandekager.jpg)
+![Kæmpepandekager](/crepes.jpg)
+
+![Pandekager](/pandekager.jpg)
