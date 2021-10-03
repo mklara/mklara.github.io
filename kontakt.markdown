@@ -5,9 +5,8 @@ permalink: /about/
 ---
 
 Morten Schierup Larsen  <br/>
-Hovvejen 46<br/>
-Markusminde<br/>
-8471 Sabro<br/>
+Illerupvej 71, 2 th.<br/>
+8200 Aarhus N<br/>
 
 
 Telefon: 30313356 <br/>

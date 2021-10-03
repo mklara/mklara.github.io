@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Kæmpe pandekager
-permalink: /pandekager/
+title: Crepes
+permalink: /crepes/
 ---
 Bestil vores bod med lækre crepes. <br/>
 Vi laver crepes med: <br/>

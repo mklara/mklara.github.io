@@ -3,10 +3,10 @@ layout: home
 title: "" 
 ---
 # Velkommen til aarhussweetfood.dk
-* Søde pandekager 
+* Baristakaffe
+* crepes
 * Brændte mandler
-* Kaffe
-* Pindis
+* Is
 
 Alt sammen til dit arrangement.
 <br/>
