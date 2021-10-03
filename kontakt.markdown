@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kontakt
-permalink: /about/
+permalink: /kontakt/
 ---
 
 Morten Schierup Larsen  <br/>
