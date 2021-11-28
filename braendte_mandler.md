@@ -10,11 +10,17 @@ Julestemning i overflod og en herlig duft af jul. Julen går for alvor i gang n�
 
 # Priser
 
-Hverdage: 3000 kr+ moms. 3 timer med brændte mandler incl. 5 kilo brændte mandler (værdi 1560 kroner i udsalgspris). <br/>
-Fredag, lørdag og søndag: 4000 kr + moms. 3 timer med brændte mandler incl. 5 brændte mandler (værdi 1560 kroner i udsalgspris). <br/>
-Flere brændte mandler kan tilkøbes til 200 kroner plus moms / kilo. <br/> <br/>
+Hverdage ( mandag til torsdag ). <br/>
+Startpris, inklusiv to timers arrangement: 6000 kroner  <br/>
+Efterfølgende pr. time: 2000 kroner.  <br/>
+Brændte mandler: 200 pr. kilo  <br/>
+Transport: 3 kroner / kilometer  <br/> <br/>
 
-Ved arrangementer mere end 25 kilometer væk fra Århus C betales 2 kroner pr. kørt kilometer.
+Weekend ( fredag til søndag ).  <br/>
+Startpris, inklusiv to timers arrangement: 8000 kroner <br/>
+Efterfølgende pr. time: 2500 kroner. <br/>
+Brændte mandler: 200 pr. kilo <br/>
+Transport: 3 kroner / kilometer <br/>
 
 ![Brændte mandler](/mandler2.jpg)
 ![Brændte mandler](/mandler3.jpg)
