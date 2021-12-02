@@ -10,6 +10,8 @@ Julestemning i overflod og en herlig duft af jul. Julen går for alvor i gang n�
 
 # Priser
 
+Obs: Priserne er plus moms.<br/><br/>
+
 Hverdage ( mandag til torsdag ). <br/>
 Startpris, inklusiv to timers arrangement: 6000 kroner  <br/>
 Efterfølgende pr. time: 2000 kroner.  <br/>
@@ -21,8 +23,6 @@ Startpris, inklusiv to timers arrangement: 8000 kroner <br/>
 Efterfølgende pr. time: 2500 kroner. <br/>
 Brændte mandler: 200 pr. kilo <br/>
 Transport: 3 kroner / kilometer <br/>
-
-Obs: Priserne er plus moms.
 
 ![Brændte mandler](/mandler2.jpg)
 ![Brændte mandler](/mandler3.jpg)
