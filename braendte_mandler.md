@@ -22,5 +22,7 @@ Efterfølgende pr. time: 2500 kroner. <br/>
 Brændte mandler: 200 pr. kilo <br/>
 Transport: 3 kroner / kilometer <br/>
 
+Obs: Priserne er plus moms.
+
 ![Brændte mandler](/mandler2.jpg)
 ![Brændte mandler](/mandler3.jpg)
