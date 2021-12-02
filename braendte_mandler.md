@@ -10,7 +10,7 @@ Julestemning i overflod og en herlig duft af jul. Julen g√•r for alvor i gang n√
 
 # Priser
 
-Obs: Priserne er plus moms.<br/><br/>
+Priserne er plus moms.<br/><br/>
 
 Hverdage ( mandag til torsdag ). <br/>
 Startpris, inklusiv to timers arrangement: 6000 kroner  <br/>
